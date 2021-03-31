@@ -1,0 +1,8 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.toolbar_row {
+    font-size: 1.5rem;
+    height: 80px;
+}
