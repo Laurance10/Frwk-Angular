@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="http://frwk.com.br/" target="blank"><img src="https://media-exp1.licdn.com/dms/image/C560BAQEpMK9fjp29IA/company-logo_200_200/0/1519866108006?e=2159024400&v=beta&t=tH705_pZXOlqZGN9lqPaRUsmF6mxQVsAwxzGbSBG03E" width="120" alt="Frwk Logo" /></a>
-</p>
-
-<h1 align="center">Processo Seletivo - Angular - Framework</h1>
+<h1 align="center">Angular Page</h1>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
